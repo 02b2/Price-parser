@@ -5,7 +5,7 @@ A helper function that for now takes a user input of price 5.1 and outputs with 
 
 npm install all to run....remove packagelock.json to launch on vercell 
 
-all donations welcome 
+buy me  a coffee
 
 meta polygon/ethereum
 0xc60329fB39bB25e74fD329C86DE19abfC185377C
